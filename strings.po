@@ -4487,12 +4487,12 @@ msgstr "过热温度"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant's highest attribute is {0}\n----------\nDuplicants develop higher expectations as their profession level increases"
-msgstr ""
+msgstr "这个复制人属性最高的一项是 {0}\n----------\n复制人的职业等级上升会变得更好"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
 msgid "Determines the minimum body heat a Duplicant prefers to maintain."
-msgstr ""
+msgstr "决定复制人希望维持的最低体温。"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME"
@@ -14582,7 +14582,7 @@ msgstr "已经玩了:{0}小时"
 #. STRINGS.UI.ATTRIBUTELEVEL
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
 msgid "Profession: Level {0} {1}"
-msgstr "当前等级:{0}"
+msgstr "职业: 等级 {0} {1}"
 
 #. STRINGS.UI.BASECOUNT
 msgctxt "STRINGS.UI.BASECOUNT"
